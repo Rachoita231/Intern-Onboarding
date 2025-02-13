@@ -1,4 +1,4 @@
-#Go to SWAT2: https://jazzauth.rchland.ibm.com:9443/SWAT2/requests/new/ to begib the onboarding process.
+# Go to SWAT2: https://jazzauth.rchland.ibm.com:9443/SWAT2/requests/new/ to begin the onboarding process.
 
 ## 1. Access to IBM Systems Chip Design Slack Workspace
 ## 2. Access to IBM Z Slack Workspace
