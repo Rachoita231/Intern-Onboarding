@@ -2,7 +2,7 @@
 ### Go to SWAT2: https://jazzauth.rchland.ibm.com:9443/SWAT2/requests/new/ to begin the onboarding process.
 
 ## 1. Access to IBM Systems Chip Design Slack Workspace
-- Under 'Set element': Select IBM Systems Chip Design and click on the 'Save' button.
+- Under 'Set element', Select IBM Systems Chip Design and click on the 'Save' button.
  Authorities will automatically be set as 'Member'.
 - Under 'Set accounts', search for your IBM account, select it and click on the 'Save' button.
 - Add a justification, if needed.
