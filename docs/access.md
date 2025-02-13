@@ -1,5 +1,5 @@
-1. Access to IBM Systems Chip Design Slack Workspace
-2. Access to IBM Z Slack Workspace
+# 1. Access to IBM Systems Chip Design Slack Workspace
+## 2. Access to IBM Z Slack Workspace
 3. Access to IBM Infrastructure Slack Workspace
 4. Access to POK VPN Bluegroup
 5. Access to zFOCS Admins Bluegroup
