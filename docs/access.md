@@ -1,14 +1,17 @@
 # Start here
 ### Go to SWAT2: https://jazzauth.rchland.ibm.com:9443/SWAT2/requests/new/ to begin the onboarding process.
 
-### Main Steps to Complete 
+### Main Steps to Request Access 
 - Set the element
 - Set the authorities
 - Set the accounts
 - Add a justification (optional)
 - Submit request
+
+  
   <img width="718" alt="image" src="https://github.com/user-attachments/assets/8f3040bf-d89d-467a-a91b-ba252312d75e" />
 
+### Contents
 - [Access to IBM Systems Chip Design Slack Workspace](#access-to-ibm-systems-chip-design-slack-workspace)
 - [Access to IBM Z Slack Workspace](#access-to-ibm-z-slack-workspace)
 - [Access to IBM Infrastructure Slack Workspace](#access-to-ibm-infrastructure-slack-workspace)
