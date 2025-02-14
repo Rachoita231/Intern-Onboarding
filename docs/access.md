@@ -11,7 +11,7 @@
 ### [Access to zFOCS v2 Admins Bluegroup](#access-to-zfocs-v2-admins-bluegroup)
 ### [Access to EWM Project](#access-to-ewm-project)
 ### [Access to zFirmware Firewall zbringup SWAT](#access-to-zfirmware-firewall-zbringup-swat)
-### [Access to CECSim](#access-to-cecsim)
+- [Access to CECSim](#access-to-cecsim)
 ### [Access to GitHub Repository](#access-to-github-repository)
 - [Access to Cirrus](#access-to-cirrus)
 
