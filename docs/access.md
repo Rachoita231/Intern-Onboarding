@@ -4,11 +4,10 @@
 ### Main Steps to Complete 
 - Set the element
 - Set the authorities
-- Set the account
+- Set the accounts
 - Add a justification (optional)
 - Submit request
-  <img width="719" alt="image" src="https://github.com/user-attachments/assets/6944c685-3bdb-40b5-8983-f51de4873f89" />
-
+  <img width="718" alt="image" src="https://github.com/user-attachments/assets/8f3040bf-d89d-467a-a91b-ba252312d75e" />
 
 - [Access to IBM Systems Chip Design Slack Workspace](#access-to-ibm-systems-chip-design-slack-workspace)
 - [Access to IBM Z Slack Workspace](#access-to-ibm-z-slack-workspace)
