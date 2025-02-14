@@ -90,9 +90,15 @@
 - Go to [next steps](#next-steps).
 
 ### Access to zFirmware CECSim Users Bluegroup
-- Set element as 'zfw_cecsim_users-swat-groupmembers' and save.
-- 'Authorities' will automatically be set to 'Group Member'.
-- Go to [next steps](#next-steps).
+- access to CECSim and the CECSim documentation can be requested via:
+  https://jazzauth.rchland.ibm.com:9443/SWAT2/requests/new?element=17063&authorities=603
+- Go to  https://jazzauth.rchland.ibm.com:9443/SWAT2/requests/new?element=17063&authorities=603 and login. 
+- Click on 'Select accounts'
+If you want to request access for yourself, you can use e.g. your mail address in the search bar to search for your user account, in case you're requesting access for someone else, use their mail address(es) instead
+click on your name, then click save
+- Provide a justification
+- Review the your input
+- Click submit
 
 ## Next Steps
 - Select your IBM account under 'Set accounts'.
