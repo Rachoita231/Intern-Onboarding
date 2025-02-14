@@ -13,7 +13,7 @@
 ### [Access to zFirmware Firewall zbringup SWAT](#access-to-zfirmware-firewall-zbringup-swat)
 ### [Access to CECSim](#access-to-cecsim)
 ### [Access to GitHub Repository](#access-to-github-repository)
-### [Access to Cirrus](#access-to-cirrus)
+- [Access to Cirrus](#access-to-cirrus)
 
 
 ## Access to IBM Systems Chip Design Slack Workspace
