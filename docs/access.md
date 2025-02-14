@@ -1,6 +1,15 @@
 # Start here
 ### Go to SWAT2: https://jazzauth.rchland.ibm.com:9443/SWAT2/requests/new/ to begin the onboarding process.
 
+### Main Steps to Complete 
+- Set the element
+- Set the authorities
+- Set the account
+- Add a justification (optional)
+- Submit request
+  <img width="719" alt="image" src="https://github.com/user-attachments/assets/6944c685-3bdb-40b5-8983-f51de4873f89" />
+
+
 - [Access to IBM Systems Chip Design Slack Workspace](#access-to-ibm-systems-chip-design-slack-workspace)
 - [Access to IBM Z Slack Workspace](#access-to-ibm-z-slack-workspace)
 - [Access to IBM Infrastructure Slack Workspace](#access-to-ibm-infrastructure-slack-workspace)
@@ -17,60 +26,74 @@
 
 
 ## Access to IBM Systems Chip Design Slack Workspace
-- Under 'Set element', search for 'IBM Systems Chip Design'. Click and save it. 
+- Set element as 'IBM Systems Chip Design', and save.
 - 'Authorities' is automatically set to 'Member'.
-- Go to [next step](#next-steps)
+- Go to [next steps](#next-steps).
 
 ## Access to IBM Z Slack Workspace
-- Under 'Set element', search for 'IBM Z' and select it. Click on the 'Save' button.
+- Set element as 'IBM Z' and save.
 - 'Authorities' will automatically be set to 'Member'.
-
-<img width="719" alt="image" src="https://github.com/user-attachments/assets/6944c685-3bdb-40b5-8983-f51de4873f89" />
+- Go to [next steps](#next-steps).
 
 ## Access to IBM Infrastructure Slack Workspace
-- Under 'Set element', search for 'IBM Infrastructure' and select it. Click on the 'Save' button.
+- Set element as 'IBM Infrastructure' and save.
 - 'Authorities' will automatically be set to 'Member'.
+- Go to [next steps](#next-steps).
 
 ## Access to POK VPN Bluegroup
-- Under 'Set element', search for 'POKVPN' and select it. Click on the 'Save' button.
+- Set element as 'POKVPN' and save.
 - 'Authorities' will automatically be set to 'Group Member'.
+- Go to [next steps](#next-steps).
 
 ## Access to zFOCS Admins Bluegroup
-- Under 'Set element', search for 'zfocs_admins' and select it. Click on the 'Save' button.
+- Set element as 'zfocs_admins' and save.
 - 'Authorities' will automatically be set to 'Group Member'.
+- Go to [next steps](#next-steps).
 
 ## Access to zFOCS Users Bluegroup
-- Under 'Set element', search for 'zfocs_users' and select it. Click on the 'Save' button.
+- Set element as 'zfocs_users' and save.
 - 'Authorities' will automatically be set to 'Group Member'.
+- Go to [next steps](#next-steps).
 
 ## Access to zFOCS v2 SWAT Group Members Bluegroup
-- Under 'Set element', search for 'zFOCSv2-swat-groupmembers' and select it. Click on the 'Save' button.
+- Set element as 'zFOCSv2-swat-groupmembers' and save.
 - 'Authorities' will automatically be set to 'Group Member'.
+- Go to [next steps](#next-steps).
 
 ## Access to zFOCS v2 Admins Bluegroup
-- Under 'Set element', search for 'zfocsv2_admins' and select it. Click on the 'Save' button.
+- Set element as 'zfocsv2_admins' and save.
 - 'Authorities' will automatically be set to 'Group Member'.
+- Go to [next steps](#next-steps).
 
 ## Access to EWM Project
 ### Access to zPlatform EWM Project
-- Under 'Set element', search for 'zPlatform' and select it. Click on the 'Save' button.
-- Under 'Authorities', select 'Stakeholder'. 
+- Set element as 'zPlatform' and save.
+- Under 'Authorities', select 'Stakeholder'.
+- Go to [next steps](#next-steps).
 
 ### Access to Prototype: zFW Temporary Issue Sandbox
-- Under 'Set element', search for 'PROTOTYPE: zFW Temporary Issue Sandbox' and select it. Click on the 'Save' button.
+- Set element as 'PROTOTYPE: zFW Temporary Issue Sandbox' and save.
 - 'Authorities' will automatically be set to 'Stakeholder'.
+- Go to [next steps](#next-steps).
 
 ## Access to zFirmware Firewall zbringup SWAT
-- Under 'Set element', search for 'zfw_firewall_zbringup_swat' and select it. Click on the 'Save' button.
+- Set element as 'zfw_firewall_zbringup_swat' and save.
 - 'Authorities' will automatically be set to 'Group Member'.
+- Go to [next steps](#next-steps).
 
 ## Access to CECSim
 ### Access to CECSim Element Group Manager
-- Under 'Set element', search for 'zfw_cecsim_users-swat-groupmembers' and select it. Click on the 'Save' button.
+- Set element as 'zfw_cecsim_users-swat-groupmembers' and save.
 - 'Authorities' will automatically be set to 'Group Member'.
+- Go to [next steps](#next-steps).
 
-  ### Access to zFirmware CECSim Users Bluegroup
-- Under 'Set element', search for 'zfw_cecsim_users-swat-groupmembers' and select it. Click on the 'Save' button.
+### Access to zFirmware CECSim Users Bluegroup
+- Set element as 'zfw_cecsim_users-swat-groupmembers' and save.
 - 'Authorities' will automatically be set to 'Group Member'.
+- Go to [next steps](#next-steps).
 
 ## Next Steps
+- Select your IBM account under 'Set accounts'.
+- Add a justification, if needed.
+- Submit the request.
+
