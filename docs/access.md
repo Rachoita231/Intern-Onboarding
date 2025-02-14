@@ -19,6 +19,7 @@
 ## Access to IBM Systems Chip Design Slack Workspace
 - Under 'Set element', search for 'IBM Systems Chip Design'. Click and save it. 
 - 'Authorities' is automatically set to 'Member'.
+- Go to [next step](#next-steps)
 
 ## Access to IBM Z Slack Workspace
 - Under 'Set element', search for 'IBM Z' and select it. Click on the 'Save' button.
@@ -71,3 +72,5 @@
   ### Access to zFirmware CECSim Users Bluegroup
 - Under 'Set element', search for 'zfw_cecsim_users-swat-groupmembers' and select it. Click on the 'Save' button.
 - 'Authorities' will automatically be set to 'Group Member'.
+
+## Next Steps
