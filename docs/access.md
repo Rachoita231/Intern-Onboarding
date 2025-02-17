@@ -13,7 +13,7 @@
 - [12. Access to GitHub Repository](#12-access-to-github-repository)
 - [13. Access to Cirrus](#13-access-to-cirrus)
 
-# Start here
+## For 1 - 11: Start here
 ### Go to SWAT2: https://jazzauth.rchland.ibm.com:9443/SWAT2/requests/new/ to begin the onboarding process.
 
 ### Main Steps to Request Access 
@@ -78,30 +78,30 @@
 - 'Authorities' will automatically be set to 'Stakeholder'.
 - Go to [next steps](#next-steps).
 
-## Access to zFirmware Firewall zbringup SWAT
+### Access to zFW Platform EWM Project
+- Set element as 'zFW Platform' and save.
+- Under 'Authorities', select 'Stakeholder'.
+- Go to [next steps](#next-steps).
+
+## 10. Access to zFirmware Firewall zbringup SWAT
 - Set element as 'zfw_firewall_zbringup_swat' and save.
 - 'Authorities' will automatically be set to 'Group Member'.
 - Go to [next steps](#next-steps).
 
-## Access to CECSim
-### Access to CECSim Element Group Manager
+## 11. Access to CECSim
 - Set element as 'zfw_cecsim_users-swat-groupmembers' and save.
 - 'Authorities' will automatically be set to 'Group Member'.
+- After completing submission, check to make sure you have access to all related Bluegroups.
 - Go to [next steps](#next-steps).
-
-### Access to zFirmware CECSim Users Bluegroup
-- access to CECSim and the CECSim documentation can be requested via:
-  https://jazzauth.rchland.ibm.com:9443/SWAT2/requests/new?element=17063&authorities=603
-- Go to  https://jazzauth.rchland.ibm.com:9443/SWAT2/requests/new?element=17063&authorities=603 and login. 
-- Click on 'Select accounts'
-If you want to request access for yourself, you can use e.g. your mail address in the search bar to search for your user account, in case you're requesting access for someone else, use their mail address(es) instead
-click on your name, then click save
-- Provide a justification
-- Review the your input
-- Click submit
 
 ## Next Steps
 - Select your IBM account under 'Set accounts'.
 - Add a justification, if needed.
 - Submit the request.
+
+## 12. Access to GitHub Repository
+- Follow the instrcutions on this documentation: https://github.ibm.com/zfw-internal/start-here
+
+## 13. Access to Cirrus
+- Request a member of the Cirrus project to invite you to the project. 
 
