@@ -1,3 +1,18 @@
+# Contents
+- [1. Access to IBM Systems Chip Design Slack Workspace](#1-access-to-ibm-systems-chip-design-slack-workspace)
+- [2. Access to IBM Z Slack Workspace](#2-access-to-ibm-z-slack-workspace)
+- [3. Access to IBM Infrastructure Slack Workspace](#3-access-to-ibm-infrastructure-slack-workspace)
+- [4. Access to POK VPN Bluegroup](#4-access-to-pok-vpn-bluegroup)
+- [5. Access to zFOCS Admins Bluegroup](#5-access-to-zfocs-admins-bluegroup)
+- [6. Access to zFOCS Users Bluegroup](#6-access-to-zfocs-users-bluegroup)
+- [7. Access to zFOCS v2 SWAT Group Members Bluegroup](#7-access-to-zfocs-v2-swat-group-members-bluegroup)
+- [8. Access to zFOCS v2 Admins Bluegroup](#8-access-to-zfocs-v2-admins-bluegroup)
+- [9. Access to EWM Project](#9-access-to-ewm-project)
+- [10. Access to zFirmware Firewall zbringup SWAT](#10-access-to-zfirmware-firewall-zbringup-swat)
+- [11. Access to CECSim](#11-access-to-cecsim)
+- [12. Access to GitHub Repository](#12-access-to-github-repository)
+- [13. Access to Cirrus](#13-access-to-cirrus)
+
 # Start here
 ### Go to SWAT2: https://jazzauth.rchland.ibm.com:9443/SWAT2/requests/new/ to begin the onboarding process.
 
@@ -11,63 +26,48 @@
   
   <img width="718" alt="image" src="https://github.com/user-attachments/assets/8f3040bf-d89d-467a-a91b-ba252312d75e" />
 
-### Contents
-- [Access to IBM Systems Chip Design Slack Workspace](#access-to-ibm-systems-chip-design-slack-workspace)
-- [Access to IBM Z Slack Workspace](#access-to-ibm-z-slack-workspace)
-- [Access to IBM Infrastructure Slack Workspace](#access-to-ibm-infrastructure-slack-workspace)
-- [Access to POK VPN Bluegroup](#access-to-pok-vpn-bluegroup)
-- [Access to zFOCS Admins Bluegroup](#access-to-zfocs-admins-bluegroup)
-- [Access to zFOCS Users Bluegroup](access-to-zfocs-users-bluegroup)
-- [Access to zFOCS v2 SWAT Group Members Bluegroup](#access-to-zfocs-v2-swat-group-members-bluegroup)
-- [Access to zFOCS v2 Admins Bluegroup](#access-to-zfocs-v2-admins-bluegroup)
-- [Access to EWM Project](#access-to-ewm-project)
-- [Access to zFirmware Firewall zbringup SWAT](#access-to-zfirmware-firewall-zbringup-swat)
-- [Access to CECSim](#access-to-cecsim)
-- [Access to GitHub Repository](#access-to-github-repository)
-- [Access to Cirrus](#access-to-cirrus)
 
-
-## Access to IBM Systems Chip Design Slack Workspace
+## 1. Access to IBM Systems Chip Design Slack Workspace
 - Set element as 'IBM Systems Chip Design', and save.
 - 'Authorities' is automatically set to 'Member'.
 - Go to [next steps](#next-steps).
 
-## Access to IBM Z Slack Workspace
+## 2. Access to IBM Z Slack Workspace
 - Set element as 'IBM Z' and save.
 - 'Authorities' will automatically be set to 'Member'.
 - Go to [next steps](#next-steps).
 
-## Access to IBM Infrastructure Slack Workspace
+## 3. Access to IBM Infrastructure Slack Workspace
 - Set element as 'IBM Infrastructure' and save.
 - 'Authorities' will automatically be set to 'Member'.
 - Go to [next steps](#next-steps).
 
-## Access to POK VPN Bluegroup
+## 4. Access to POK VPN Bluegroup
 - Set element as 'POKVPN' and save.
 - 'Authorities' will automatically be set to 'Group Member'.
 - Go to [next steps](#next-steps).
 
-## Access to zFOCS Admins Bluegroup
+## 5. Access to zFOCS Admins Bluegroup
 - Set element as 'zfocs_admins' and save.
 - 'Authorities' will automatically be set to 'Group Member'.
 - Go to [next steps](#next-steps).
 
-## Access to zFOCS Users Bluegroup
+## 6. Access to zFOCS Users Bluegroup
 - Set element as 'zfocs_users' and save.
 - 'Authorities' will automatically be set to 'Group Member'.
 - Go to [next steps](#next-steps).
 
-## Access to zFOCS v2 SWAT Group Members Bluegroup
+## 7. Access to zFOCS v2 SWAT Group Members Bluegroup
 - Set element as 'zFOCSv2-swat-groupmembers' and save.
 - 'Authorities' will automatically be set to 'Group Member'.
 - Go to [next steps](#next-steps).
 
-## Access to zFOCS v2 Admins Bluegroup
+## 8. Access to zFOCS v2 Admins Bluegroup
 - Set element as 'zfocsv2_admins' and save.
 - 'Authorities' will automatically be set to 'Group Member'.
 - Go to [next steps](#next-steps).
 
-## Access to EWM Project
+## 9. Access to EWM Project
 ### Access to zPlatform EWM Project
 - Set element as 'zPlatform' and save.
 - Under 'Authorities', select 'Stakeholder'.
